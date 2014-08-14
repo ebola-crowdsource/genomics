@@ -11,10 +11,10 @@ First of all, you need to set up git; github help has a pretty good [guide on ho
 You need to clone the repo on your local machine, by typing:
 
 ```git
-    git clone repo
+    git clone
 ```
 
-After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `BGI-data-analysis` folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
+After a few minutes (depending on your internet connection), you have all the contents of the repo stored locally on the newly-created `ebola-crowdsource` folder. Note that this is _only_ for first-time setup; you don't need to do this every time you want to add/get data.
 
 ### adding data locally
 
@@ -48,4 +48,4 @@ We're trying to keep this as simple as possible (no branches, forks, whatever). 
 
 ## ask for help!
 
-If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send and email to ehec@ohnosequences.com or send a message to any of [@ehec_data](http://twitter.com/ehec_data), [@marina_manrique](http://twitter.com/marina_manrique), [@eparejatobes](http://twitter.com/eparejatobes)
+If you have your data at some publicly available URL, and you are unable/confident to follow the steps above, we'll be happy to upload the data for you: just send an email.
