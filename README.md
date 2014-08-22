@@ -24,6 +24,9 @@ If you're working with these datasets and others and want to share your results,
 ## Contributors ##
 
 **1.** Josh Herr ([jherr](https://github.com/jrherr))
+
 **2.**
+
 **3.**
+
 **4.**
