@@ -1,9 +1,9 @@
 genomics
 ========
 
-# Analysis of Ebola virus genome Crowdsourcing #
+# WIP - Analysis of Ebola virus genome Crowdsourcing #
 
-In this wiki we aim to gather all the results of the analysis of the Ebola virus strains responsible for recent outbreaks in 2014.  We also want to compare the new outbreak genome sequencing to genomes isolated from other mammals and previous human outbreaks.
+In this wiki we aim to gather all the results of the analysis of the Ebola virus strains responsible for recent outbreaks in 2014.  We also want to compare the new outbreak genome sequencing to genomes isolated from other mammals and previous human outbreaks.  Please add your name to the repo!
 
 ## Sequence Data ##
 
