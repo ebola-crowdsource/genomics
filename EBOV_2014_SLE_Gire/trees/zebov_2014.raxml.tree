@@ -1,0 +1,175 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=81;
+	taxlabels
+	EBOV_2014_EM095
+	EBOV_2014_EM096
+	EBOV_2014_EM098
+	EBOV_2014_EM104
+	EBOV_2014_EM106
+	EBOV_2014_EM110
+	EBOV_2014_EM111
+	EBOV_2014_EM112
+	EBOV_2014_EM113
+	EBOV_2014_EM115
+	EBOV_2014_EM119
+	EBOV_2014_EM120
+	EBOV_2014_EM121
+	EBOV_2014_EM124
+	EBOV_2014_G3670
+	EBOV_2014_G3676
+	EBOV_2014_G3677
+	EBOV_2014_G3679
+	EBOV_2014_G3680
+	EBOV_2014_G3682
+	EBOV_2014_G3683
+	EBOV_2014_G3686
+	EBOV_2014_G3687
+	EBOV_2014_G3707
+	EBOV_2014_G3713
+	EBOV_2014_G3724
+	EBOV_2014_G3729
+	EBOV_2014_G3734
+	EBOV_2014_G3735
+	EBOV_2014_G3750
+	EBOV_2014_G3752
+	EBOV_2014_G3758
+	EBOV_2014_G3764
+	EBOV_2014_G3765
+	EBOV_2014_G3769
+	EBOV_2014_G3770
+	EBOV_2014_G3771
+	EBOV_2014_G3782
+	EBOV_2014_G3786
+	EBOV_2014_G3787
+	EBOV_2014_G3788
+	EBOV_2014_G3789
+	EBOV_2014_G3795
+	EBOV_2014_G3796
+	EBOV_2014_G3798
+	EBOV_2014_G3799
+	EBOV_2014_G3800
+	EBOV_2014_G3805
+	EBOV_2014_G3807
+	EBOV_2014_G3808
+	EBOV_2014_G3809
+	EBOV_2014_G3810
+	EBOV_2014_G3814
+	EBOV_2014_G3816
+	EBOV_2014_G3817
+	EBOV_2014_G3818
+	EBOV_2014_G3819
+	EBOV_2014_G3820
+	EBOV_2014_G3821
+	EBOV_2014_G3822
+	EBOV_2014_G3823
+	EBOV_2014_G3825
+	EBOV_2014_G3826
+	EBOV_2014_G3827
+	EBOV_2014_G3829
+	EBOV_2014_G3831
+	EBOV_2014_G3834
+	EBOV_2014_G3838
+	EBOV_2014_G3840
+	EBOV_2014_G3841
+	EBOV_2014_G3845
+	EBOV_2014_G3846
+	EBOV_2014_G3848
+	EBOV_2014_G3850
+	EBOV_2014_G3851
+	EBOV_2014_G3856
+	EBOV_2014_G3857
+	EBOV_2014_KJ660346
+	EBOV_2014_KJ660347
+	EBOV_2014_KJ660348
+	EBOV_2014_NM042
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((EBOV_2014_KJ660348:1.61E-4,EBOV_2014_KJ660346:1.0E-6)[&label=74]:5.4E-5,(EBOV_2014_G3687:5.4E-5,(EBOV_2014_EM095:1.0E-6,(EBOV_2014_G3676:1.0E-6,((EBOV_2014_G3680:5.3E-5,EBOV_2014_G3683:5.3E-5)[&label=5]:1.0E-6,((((EBOV_2014_NM042:1.0E-6,((EBOV_2014_EM124:1.0E-6,((EBOV_2014_EM112:1.0E-6,(EBOV_2014_G3735:1.0E-6,((EBOV_2014_G3764:1.0E-6,((EBOV_2014_G3724:5.3E-5,(EBOV_2014_G3827:1.0E-6,EBOV_2014_G3826:1.0E-6)[&label=60]:5.3E-5)[&label=1]:1.0E-6,(EBOV_2014_G3713:5.3E-5,(EBOV_2014_EM119:1.0E-6,EBOV_2014_G3770:1.0E-6)[&label=88]:1.06E-4)[&label=2]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,EBOV_2014_EM113:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,((((EBOV_2014_EM111:1.0E-6,(EBOV_2014_EM110:1.0E-6,(EBOV_2014_G3845:1.0E-6,(EBOV_2014_EM104:5.3E-5,EBOV_2014_G3771:1.0E-6)[&label=17]:1.0E-6)[&label=2]:1.0E-6)[&label=1]:1.0E-6)[&label=14]:1.0E-6,(((EBOV_2014_G3819:5.3E-5,EBOV_2014_G3817:1.59E-4)[&label=9]:1.0E-6,EBOV_2014_EM115:1.0E-6)[&label=1]:1.0E-6,((((EBOV_2014_G3750:5.3E-5,(EBOV_2014_G3805:1.0E-6,(EBOV_2014_G3789:1.0E-6,(EBOV_2014_G3850:1.0E-6,EBOV_2014_G3765:1.0E-6)[&label=59]:1.0E-6)[&label=55]:1.0E-6)[&label=16]:1.0E-6)[&label=13]:1.0E-6,EBOV_2014_G3798:1.0E-6)[&label=6]:1.0E-6,EBOV_2014_EM106:1.0E-6)[&label=11]:1.0E-6,EBOV_2014_G3814:1.0E-6)[&label=0]:1.0E-6)[&label=7]:1.0E-6)[&label=0]:1.0E-6,(((EBOV_2014_G3821:1.0E-6,(EBOV_2014_G3816:1.0E-6,EBOV_2014_G3809:1.0E-6)[&label=61]:1.0E-6)[&label=61]:1.0E-6,EBOV_2014_G3822:1.0E-6)[&label=61]:5.3E-5,EBOV_2014_G3856:5.3E-5)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(EBOV_2014_G3818:1.06E-4,EBOV_2014_G3846:1.06E-4)[&label=3]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(EBOV_2014_G3840:1.0E-6,EBOV_2014_G3707:1.0E-6)[&label=2]:1.0E-6)[&label=0]:1.0E-6)[&label=5]:1.0E-6,(EBOV_2014_G3829:5.3E-5,(EBOV_2014_G3825:1.0E-6,((EBOV_2014_G3848:1.0E-6,EBOV_2014_G3851:1.0E-6)[&label=14]:1.0E-6,((EBOV_2014_G3752:1.0E-6,EBOV_2014_G3834:1.0E-6)[&label=30]:1.0E-6,EBOV_2014_G3857:1.0E-6)[&label=57]:1.0E-6)[&label=3]:1.0E-6)[&label=19]:1.0E-6)[&label=60]:5.3E-5)[&label=60,!cartoon={44,0.0}]:5.3E-5,(((EBOV_2014_G3769:1.06E-4,(EBOV_2014_EM096:1.0E-6,EBOV_2014_G3679:1.0E-6)[&label=85]:1.06E-4)[&label=3]:1.0E-6,((EBOV_2014_G3682:1.0E-6,(((EBOV_2014_G3795:1.0E-6,(EBOV_2014_EM120:5.3E-5,(EBOV_2014_G3808:1.0E-6,((EBOV_2014_G3841:1.0E-6,EBOV_2014_EM098:1.0E-6)[&label=53]:1.0E-6,EBOV_2014_G3734:1.0E-6)[&label=53]:1.0E-6)[&label=51]:1.0E-6)[&label=25]:1.0E-6)[&label=40]:1.0E-6,((EBOV_2014_G3831:1.0E-6,EBOV_2014_G3787:1.0E-6)[&label=85]:1.06E-4,EBOV_2014_G3823:5.3E-5)[&label=1]:1.0E-6)[&label=0]:1.0E-6,(EBOV_2014_G3729:1.0E-6,(((EBOV_2014_G3677:1.0E-6,((((EBOV_2014_G3788:5.3E-5,EBOV_2014_G3810:1.06E-4)[&label=5]:1.0E-6,EBOV_2014_G3807:1.0E-6)[&label=0]:1.0E-6,(EBOV_2014_G3799:5.3E-5,EBOV_2014_G3670:1.06E-4)[&label=3]:1.0E-6)[&label=0]:1.0E-6,(EBOV_2014_EM121:5.3E-5,((EBOV_2014_G3796:1.0E-6,EBOV_2014_G3786:1.0E-6)[&label=27]:1.0E-6,EBOV_2014_G3838:1.0E-6)[&label=33]:1.0E-6)[&label=52]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,EBOV_2014_G3758:1.0E-6)[&label=0]:1.0E-6,EBOV_2014_G3782:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,EBOV_2014_G3820:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,EBOV_2014_G3800:1.0E-6)[&label=8,!cartoon={28,0.0}]:1.0E-6)[&label=99]:2.11E-4,EBOV_2014_G3686:1.06E-4)[&label=28,!rotate=false]:1.0E-6)[&label=3,!rotate=true]:1.0E-6)[&label=86,!rotate=true]:1.0E-6)[&label=67,!rotate=true]:1.0E-6)[&label=100,!rotate=true]:2.68E-4,EBOV_2014_KJ660347[&!rotate=true]:1.07E-4);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="Arial";
+	set nodeLabels.fontSize=11;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=9;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
