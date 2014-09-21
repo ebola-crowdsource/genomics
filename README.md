@@ -21,7 +21,7 @@ This wiki has been inspired by previous crowdsourcing efforts (*E*. *coli* o104 
 
 ## Contributing ##
 
-If you're working with these datasets and others and want to share your results, please feel free to edit the wiki. You just need a GitHub account, which is just an email and a password. If you want to submit your data, read this: [[how to contribute]]
+Feel free to add data or analyses, and please feel free to edit the wiki. You just need a GitHub account to do so.  If you want to submit your data, read this: [[how to contribute]].  There is no goal for this repo at the moment except to help curb the outbreak and to understand the epidemiology of the disease.
 
 ## Contributors ##
 
