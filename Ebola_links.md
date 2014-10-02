@@ -2,27 +2,24 @@
 Last Updated: October 2nd, 2014
 
 ### General Outbreak Information:
-<ul>
-<li><a href="http://www.cdc.gov/vhf/ebola/outbreaks/guinea/whats-new.html">What's New&nbsp;&nbsp; </a></li>
-<li><a href="http://www.cdc.gov/vhf/ebola/index.html">CDC's Ebola Hemorrhagic Fever Resources Page</a></li>
-<li><a href="http://www.cdc.gov/vhf/ebola/outbreaks/guinea/qa.html">Questions and Answers on Ebola</a></li>
-<li><a href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html">World Health Organization Disease Outbreak News</a></li>
-</ul>
-<p>New Or Updated Guidance Documents:(Full range of guidance documents can be found on the CDC Ebola Web site <a href="http://www.cdc.gov/ebola">http://www.cdc.gov/ebola</a>)</p>
-<ul>
-<li><a href="http://www.cdc.gov/vhf/ebola/hcp/select-agent-regulations.html">Interim Guidance Regarding Compliance with Select Agent Regulations for Laboratories Handling Patient Specimens (NEW)</a></li>
-<li><a href="http://www.cdc.gov/quarantine/air/managing-sick-travelers/ebola-guidance-airlines.html">Ebola Guidance for Airlines&nbsp;</a></li>
-</ul>
-<p>Commentary:</p>
-<ul>
-<li><a href="http://www.latimes.com/opinion/op-ed/la-oe-barry-ebola-medical-reserves-20140919-story.html">To Fight Ebola, Create a Health Workforce Reserve Force</a> (Op-Ed, Los Angeles Times)</li>
-<li><a href="https://www.dropbox.com/s/q26t9wr3x9qa3mi/A%20United%20Nations%20Security%20Council%20Resolution%20is%20Essential%20to%20Preventing%20the%20Threat%20to%20International%20Peace%20and%20Security%20Posed%20by%20Ebola.pdf?dl=0">A United Nations Security Council Resolution is Essential to Preventing the Threat to International Peace and Security Posed by Ebola </a>(The O’Neill Institute for National and Global Health Law)</li>
-<li><a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61345-3/fulltext">Ebola: Towards an International Health Systems Fund</a> (The Lancet -- Subscription Required)</li>
-</ul>
 
+[CDC Outbreak News](http://www.cdc.gov/vhf/ebola/outbreaks/guinea/whats-new.html)
 
+[World Health Organization Disease Outbreak News](http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html)
 
-### News from American Society for Microbiology on Ebola
+[Questions and Answers on Ebola](http://www.cdc.gov/vhf/ebola/outbreaks/guinea/qa.html)
+
+[CDC's Ebola Hemorrhagic Fever Resources Page](http://www.cdc.gov/vhf/ebola/index.html)
+
+[CDC's Interim Guidance Regarding Compliance with Select Agent Regulations for Laboratories Handling Patient Specimens](http://www.cdc.gov/vhf/ebola/hcp/select-agent-regulations.html)
+
+### News Commentary:
+
+[To Fight Ebola, Create a Health Workforce Reserve Force (Op-Ed, Los Angeles Times](http://www.latimes.com/opinion/op-ed/la-oe-barry-ebola-medical-reserves-20140919-story.html)
+
+[Nations Security Council Resolution is Essential to Preventing the Threat to International Peace and Security Posed by Ebola (The O’Neill Institute for National and Global Health Law)](https://www.dropbox.com/s/q26t9wr3x9qa3mi/A%20United%20Nations%20Security%20Council%20Resolution%20is%20Essential%20to%20Preventing%20the%20Threat%20to%20International%20Peace%20and%20Security%20Posed%20by%20Ebola.pdf?dl=0)
+
+### News from American Society for Microbiology on Ebola:
 
 [American Society for Microbiology's Open Access Journal Articles on Ebola](http://journals.asm.org/search?submit=yes&pubdate_year=&volume=&firstpage=&doi=&author1=&author2=&title=&andorexacttitle=and&titleabstract=ebola&andorexacttitleabs=and&fulltext=&andorexactfulltext=and&fmonth=&fyear=&tmonth=&tyear=&journalcode=aac|aem|cdli|cmr|eukcell|ga|iai|jb|jcm|jvi|mbio|mcb|mmbr&format=standard&hits=10&sortspec=relevance&submit=yes&submit=Submit)
 
